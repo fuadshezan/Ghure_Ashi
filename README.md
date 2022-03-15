@@ -28,4 +28,4 @@ Sometimes we can't explore the place due to lack of proper knowledge about the p
 
 ## Lesson Learned
 
-By doing this project I learn the use of SSLCOMMERZ API which is online payment gateway provider. For booking payment we use this payment system and it's a new experience for me.
+By doing this project I learned the use of SSLCOMMERZ API which is online payment gateway provider. For booking payment we use this payment system and it's a new experience for me.
